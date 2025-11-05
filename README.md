@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 About Me  
 I'm **Muhamad Fahry Pratama Putra**, a passionate Computer Science student and software developer.  
 I have experience in multiple programming languages (**Java, Python, Kotlin, Dart, JavaScript, Java, and more**) and love building innovative projects.  
