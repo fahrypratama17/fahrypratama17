@@ -1,8 +1,14 @@
-# 👋 About Me  
-I'm **Muhamad Fahry Pratama Putra**, a passionate Computer Science student and software developer.  
-I have experience in multiple programming languages (**Java, Python, Kotlin, Dart, JavaScript, GO, TypeScript, SQL, PHP, C++**) and love building innovative projects.  
+# 👋 About Me
 
-💡 I enjoy tackling algorithmic challenges, learning new technologies, and contributing to the open-source community. Collaboration and sharing knowledge with others is what drives me.  
+Hi, I'm **Muhamad Fahry Pratama Putra** — a Computer Science student and passionate software developer who loves turning ideas into reality through code.
+
+With experience across **Java, Python, Kotlin, Dart, JavaScript, Go, TypeScript, SQL, PHP, and C++**, I enjoy exploring different technologies and choosing the right tools for every challenge.
+
+💻 I’m passionate about building scalable applications, solving complex problems, and continuously improving my craft as a developer.
+
+🌱 Beyond coding, I enjoy learning new technologies, contributing to open-source projects, and collaborating with people who share the same enthusiasm for innovation and growth.
+
+✨ My goal is simple: keep learning, keep building, and create software that delivers meaningful value.
 
 <h2>📊Github Statistics</h2>
 <div>
