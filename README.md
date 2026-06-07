@@ -1,6 +1,6 @@
 # 👋 About Me
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=visitors&logo=github&radius=4&height=30)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=muhamadfahry17.visitor-badge&left_text=visitors&logo=github&radius=4&height=30)
 
 Hi, I'm **Muhamad Fahry Pratama Putra** — a Computer Science student and passionate software developer who loves turning ideas into reality through code.
 
