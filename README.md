@@ -1,4 +1,7 @@
 # 👋 About Me
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fahrypratama17.fahrypratama17)
+
 Hi, I'm **Muhamad Fahry Pratama Putra** — a Computer Science student and passionate software developer who loves turning ideas into reality through code.
 
 With experience across a wide range of technologies, I enjoy exploring different tools and choosing the right stack for every challenge.
@@ -8,6 +11,8 @@ With experience across a wide range of technologies, I enjoy exploring different
 🌱 Beyond coding, I enjoy learning new technologies, contributing to open-source projects, and collaborating with people who share the same enthusiasm for innovation and growth.
 
 ✨ My goal is simple: keep learning, keep building, and create software that delivers meaningful value.
+
+> 🎯 Currently focused on **software development** — with a strong interest in **web development**, while actively learning **Artificial Intelligence** and **Machine Learning**.
 
 ---
 
@@ -42,6 +47,14 @@ With experience across a wide range of technologies, I enjoy exploring different
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### 💻 IDEs & Editors
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-AF51EE?style=for-the-badge&logo=phpstorm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-07C3F2?style=for-the-badge&logo=webstorm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
 ---
 
 ## 📊 Github Statistics
@@ -54,5 +67,13 @@ With experience across a wide range of technologies, I enjoy exploring different
   <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=fahrypratama17&layout=compact&theme=vue-dark" alt="fahrypratama17's github readme top-langs" width="39%" />
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=fahrypratama17&theme=vue-dark" alt="fahrypratama17's github readme activity graph" width="60%" />
 </div>
+
+---
+
+## 📬 Reach Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fahrypratama17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-fahry-pratama-putra-05a2a8322/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.fahry.pratama.putra@gmail.com)
 
 ---
